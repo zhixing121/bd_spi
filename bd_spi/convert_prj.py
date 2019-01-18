@@ -5,7 +5,7 @@ import time
 
 """此文件来源于github及其他网络开源资源，在此对作者表示感谢"""
 
-key = "tsNfn92Z2YiZRpwRcLQL7yxm7XhQRaCC"  # 这里填写你的bd开放平台的key
+key = ""  # 这里填写你的bd开放平台的key
 
 x_pi = 3.14159265358979324 * 3000.0 / 180.0
 pi = 3.1415926535897932384626  # π
