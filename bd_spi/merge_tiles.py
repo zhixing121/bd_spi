@@ -4,7 +4,7 @@ from PIL import Image
 
 # from baidu_tile_thread import
 UNIT_SIZE = 256
-problem_jpg = r"F:\baiduTraffic\problem.jpg"
+problem_jpg = r"F:\bd_spi\problem.jpg"
 
 
 class MergeJpg():
